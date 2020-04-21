@@ -105,7 +105,7 @@
     }
 ,
     {
-     "name":  "Ubuntu 20.04",
+     "name":  "Ubuntu 20.04 LTS",
        "publisher": "Canonical Group Ltd",
        "lastUpdated": "2020-04-21T12:00:00Z",
        "version":  "20.04",
